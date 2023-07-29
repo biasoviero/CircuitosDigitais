@@ -17,3 +17,8 @@
    * [Muxtiplexador 2x1 1 bit](https://github.com/biasoviero/CircuitosDigitais/blob/main/mux/bfs_mux_2x1_1bit.bdf)
    * [Muxtiplexador 2x1 8 bits](https://github.com/biasoviero/CircuitosDigitais/blob/main/mux/bfs_mux_2x1_8bits.bdf)
    * [Muxtiplexador 4x1 1 bit](https://github.com/biasoviero/CircuitosDigitais/blob/main/mux/bfs_mux_4x1_1bit.bdf)
+   * [Multiplexador 8x1 1 bit]
+* [Display de 7 segmentos](https://github.com/biasoviero/CircuitosDigitais/blob/main/display_7seg/bfs_display_7seg.bdf)
+* Contador Síncrono
+   *  [de 4 bits](https://github.com/biasoviero/CircuitosDigitais/blob/main/contador_sincrono/4bits/bfs_contador_sincrono.bdf)
+   *  [de 8 bits](https://github.com/biasoviero/CircuitosDigitais/blob/main/contador_sincrono/8bits/bfs_contador_sincrono_8bits.bdf)
