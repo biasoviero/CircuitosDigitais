@@ -17,8 +17,14 @@
    * [Muxtiplexador 2x1 1 bit](https://github.com/biasoviero/CircuitosDigitais/blob/main/mux/bfs_mux_2x1_1bit.bdf)
    * [Muxtiplexador 2x1 8 bits](https://github.com/biasoviero/CircuitosDigitais/blob/main/mux/bfs_mux_2x1_8bits.bdf)
    * [Muxtiplexador 4x1 1 bit](https://github.com/biasoviero/CircuitosDigitais/blob/main/mux/bfs_mux_4x1_1bit.bdf)
-   * [Multiplexador 8x1 1 bit]
+   * [Multiplexador 8x1 1 bit](https://github.com/biasoviero/CircuitosDigitais/blob/main/mux/bfs_mux_8x1.bdf)
 * [Display de 7 segmentos](https://github.com/biasoviero/CircuitosDigitais/blob/main/display_7seg/bfs_display_7seg.bdf)
 * Contador Síncrono
-   *  [de 4 bits](https://github.com/biasoviero/CircuitosDigitais/blob/main/contador_sincrono/4bits/bfs_contador_sincrono.bdf)
-   *  [de 8 bits](https://github.com/biasoviero/CircuitosDigitais/blob/main/contador_sincrono/8bits/bfs_contador_sincrono_8bits.bdf)
+   *  [de 4 bits](https://github.com/biasoviero/CircuitosDigitais/blob/main/contador_sincrono/4bits/bfs_contador_sincrono.bdf) - Configurado com o display
+      *  [Contador até 15](https://github.com/biasoviero/CircuitosDigitais/blob/main/contador_sincrono/4bits/bfs_contador_ff.bdf)
+   *  [de 8 bits](https://github.com/biasoviero/CircuitosDigitais/blob/main/contador_sincrono/8bits/bfs_contador_sincrono_8bits.bdf) - Configurado com o display
+      * [Contador até 255](https://github.com/biasoviero/CircuitosDigitais/blob/main/contador_sincrono/8bits/bfs_contador_ff_8bits.bdf)
+  * [Barreira de Flip Flop](https://github.com/biasoviero/CircuitosDigitais/blob/main/contador_sincrono/bfs_barreira_ff.bdf)
+  * [Divisor de frequência](https://github.com/biasoviero/CircuitosDigitais/blob/main/contador_sincrono/bfs_flipflop.bdf)
+  * [Divisor de 4 frequências](https://github.com/biasoviero/CircuitosDigitais/blob/main/contador_sincrono/bfs_flipflop4.bdf)
+  * [Divisor de 24 frequências](https://github.com/biasoviero/CircuitosDigitais/blob/main/contador_sincrono/bfs_divisor24.bdf)
